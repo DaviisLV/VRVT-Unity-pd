@@ -297,10 +297,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _bullet: {fileID: 1517175325654498, guid: 6a9e3a7192e80d74f8dbc0bcc2466b93, type: 2}
   _bulletStartPoint: {fileID: 4700953661119216}
-  _bulletFireRate: 2
-  _bulletDistance: 50
-  _findDistance: 150
-  _rotationSpeed: 80
+  _bulletFireRate: 1.5
+  _bulletDistance: 80
+  _findDistance: 180
+  _rotationSpeed: 100
 --- !u!135 &135315443698630328
 SphereCollider:
   m_ObjectHideFlags: 1

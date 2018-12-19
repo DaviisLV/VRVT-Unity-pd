@@ -62,7 +62,7 @@ namespace UnityStandardAssets.Cameras
         }
 
 
-        public void ManualUpdate()
+        public void Update()
         {
             // we update from here if updatetype is set to Late, or in auto mode,
             // if the target does not have a rigidbody, or - does have a rigidbody but is set to kinematic.
